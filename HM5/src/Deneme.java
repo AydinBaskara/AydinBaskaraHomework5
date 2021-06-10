@@ -5,8 +5,8 @@ public class Deneme {
 		System.out.println("This is first git project.");
 		System.out.println("I did some modification");
 		
-		//for loop
-		for(int i = 0; i < 10; i++) {
+		//for loop bla bla
+		for(int i = 5; i < 10; i++) {
 		   System.out.println("Deger: " + i);
 		}
 	}
