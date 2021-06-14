@@ -1,6 +1,9 @@
-readmex file
+readme file
 
-
+********
 this homework written by Muhammed Esat Memiş and Aydın Başkara
+********
+
+
 
 ****
