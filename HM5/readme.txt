@@ -1,8 +1,6 @@
 readmex file
 
 
-this project written by Muhammed Esat Memiş and Aydın Başkara.
-
-
+this homework written by Muhammed Esat Memiş and Aydın Başkara
 
 ****
